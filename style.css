@@ -1,0 +1,123 @@
+body{
+    background-color: orange;
+    color: rgb(1, 1, 82);
+}
+
+.comon{
+  color: green;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.text{
+  color: black;
+}
+
+.rar{
+  color: blue;
+  background-color: black;
+   border-radius: 5px;
+}
+
+.epik{
+  background-color: black;
+  color: purple;
+   border-radius: 5px;
+
+}
+
+.legenbare{
+  background-color: black;
+  color: yellow;
+   border-radius: 5px;
+}
+
+.god{
+  background-color: black;
+  color: wheat;
+   border-radius: 5px;
+}
+
+.sekret{
+  background-color: wheat;
+  color: black;
+   border-radius: 5px;
+}
+
+.nyb{
+  background-color: brown;
+  color: black;
+  border-radius: 5px;
+}
+
+/*table img {
+  margin-right: 10px;
+}*/
+
+.pizaa{
+  
+}
+
+body{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: black;
+  color: yellowgreen;
+  border-radius: 10px;
+}
+
+.we{
+  background-color: blue;
+  color: red;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.tar{
+  background-color: green;
+  color: wheat;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.can{
+  background-color: blueviolet;
+  color: blue;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.maryuhnom{
+  background-color: orangered;
+  color: aquamarine;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.makar{
+  background-color: blue;
+  color: brown;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+footer{
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.miwik{
+  background-color: black;
+  color: red;
+  border-radius: 5px;
+}
